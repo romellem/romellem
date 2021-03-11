@@ -16,3 +16,11 @@ Here are some open source node modules I've written:
 - [gulp-sass-bulk-importer 🍴](https://www.npmjs.com/package/gulp-sass-bulk-importer) - Gulp stream transform to allow importing directories in your SCSS 🗂
 - [react-outside-click-handler-lite 🍴](https://www.npmjs.com/package/react-outside-click-handler-lite) - A React component for handling outside clicks ⤵️
 - [deadbeef-rand](https://www.npmjs.com/package/deadbeef-rand) - A seed-able pseudo-random number generator (PRNG), ported from [the public domain work by Robbert Haarman](http://inglorion.net/software/deadbeef_rand/) into JavaScript 🔢
+
+## Websites
+
+Here are some other websites I've made:
+
+- [heyitsmattwade.com](https://heyitsmattwade.com/) ([repo](https://github.com/romellem/heyitsmattwade-com))
+- [romellem.github.io/the-riddler/](https://romellem.github.io/the-riddler/) ([repo](https://github.com/romellem/the-riddler))
+- [easyqr.codes](https://easyqr.codes) ([repo](https://github.com/romellem/easyqr-codes))
