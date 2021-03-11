@@ -21,6 +21,6 @@ Here are some open source node modules I've written:
 
 Here are some other websites I've made:
 
-- [heyitsmattwade.com](https://heyitsmattwade.com/) ([repo](https://github.com/romellem/heyitsmattwade-com))
-- [romellem.github.io/the-riddler/](https://romellem.github.io/the-riddler/) ([repo](https://github.com/romellem/the-riddler))
-- [easyqr.codes](https://easyqr.codes) ([repo](https://github.com/romellem/easyqr-codes))
+- [heyitsmattwade.com](https://heyitsmattwade.com/) | _([repo](https://github.com/romellem/heyitsmattwade-com))_
+- [romellem.github.io/the-riddler/](https://romellem.github.io/the-riddler/) | _([repo](https://github.com/romellem/the-riddler))_
+- [easyqr.codes](https://easyqr.codes) | _([repo](https://github.com/romellem/easyqr-codes))_
