@@ -24,3 +24,4 @@ Here are some other websites I've made:
 - [heyitsmattwade.com](https://heyitsmattwade.com/)
 - [romellem.github.io/the-riddler/](https://romellem.github.io/the-riddler/)
 - [easyqr.codes](https://easyqr.codes)
+- [visualizing-git.github.io/visualizing-git-actions/](https://visualizing-git.github.io/visualizing-git-actions/) (forked from [github.com/git-school/visualizing-git/](https://github.com/git-school/visualizing-git/))
